@@ -1,3 +1,4 @@
+How to Create a Structur
 // Create a structure called myStructure
 struct myStructure {
   int myNum;
